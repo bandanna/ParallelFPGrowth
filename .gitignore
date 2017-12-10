@@ -1,0 +1,11 @@
+*.log
+*.class
+*.xml
+src/data/output/*
+src/main/scala/data/output/*
+./idea
+*.json
+*.cache
+target/config-classes/*
+streams/*
+
