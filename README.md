@@ -1,4 +1,4 @@
-# README FILE
+# Parallel FP-Growth (PFP)
 
 This implementation of Parallel FP-Growth uses PFP available in Spark 2.2.x.
 Parallel FP-Growth is a parallelized solution FP-Growth that exploits the best out of distributed processing architectures.
